@@ -44,7 +44,7 @@ See the [docs] for instructions on how to configure and deploy Chaos Monkey.
 
 ### Support
 
-[Simian Army Google group](http://groups.google.com/group/simianarmy-users).
+Use Chaos Monkey Systems to test the resilience of WorqHat servers
 
 [Spinnaker]: http://www.spinnaker.io/
 [docs]: https://netflix.github.io/chaosmonkey
