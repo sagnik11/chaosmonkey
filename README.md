@@ -42,8 +42,6 @@ go get github.com/netflix/chaosmonkey/cmd/chaosmonkey
 
 See the [docs] for instructions on how to configure and deploy Chaos Monkey.
 
-### Support
-
 Use Chaos Monkey Systems to test the resilience of WorqHat servers
 
 [Spinnaker]: http://www.spinnaker.io/
